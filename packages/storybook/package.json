@@ -1,0 +1,8 @@
+{
+  "name": "@n4s/storybook",
+  "version": "0.0.1",
+  "dependencies": {
+    "@n4s/components": "workspace:*",
+    "@storybook/react": "*"
+  }
+}

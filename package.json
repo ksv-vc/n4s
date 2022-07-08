@@ -1,7 +1,8 @@
 {
   "name": "n4s",
+  "private": true,
   "workspaces": [
     "packages/*"
   ],
-  "version": "0.0.0"
+  "packageManager": "yarn@3.2.1"
 }
