@@ -1,0 +1,7 @@
+{
+  "name": "n4s",
+  "workspaces": [
+    "packages/*"
+  ],
+  "version": "0.0.0"
+}
